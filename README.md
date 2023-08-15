@@ -11,3 +11,7 @@ I estimate it would have taken ~5x as long to get as far without assistance, esp
 1. Install NPM on your local machine
 2. ./run.sh
 3. WASD to contol the snake
+
+<br>
+
+![](screenshot.jpg)
