@@ -1,0 +1,2 @@
+Write a game of snake in HTML5 and WebGL.
+The snake should be represented by appended characters "o" the apples should be represented with the character "x".
